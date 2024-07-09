@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\Address Book App\Address Book App\bin\Debug\Address Book App.exe.config
+C:\Users\PC\Desktop\Address Book App\Address Book App\bin\Debug\Address Book App.exe
+C:\Users\PC\Desktop\Address Book App\Address Book App\bin\Debug\Address Book App.pdb
+C:\Users\PC\Desktop\Address Book App\Address Book App\obj\Debug\Address Book App.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Address Book App\Address Book App\obj\Debug\Address_Book_App.Form1.resources
+C:\Users\PC\Desktop\Address Book App\Address Book App\obj\Debug\Address_Book_App.Properties.Resources.resources
+C:\Users\PC\Desktop\Address Book App\Address Book App\obj\Debug\Address Book App.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Address Book App\Address Book App\obj\Debug\Address Book App.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Address Book App\Address Book App\obj\Debug\Address Book App.exe
+C:\Users\PC\Desktop\Address Book App\Address Book App\obj\Debug\Address Book App.pdb
