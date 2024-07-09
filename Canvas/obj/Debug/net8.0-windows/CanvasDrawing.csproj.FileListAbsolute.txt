@@ -1,0 +1,17 @@
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\bin\Debug\net8.0-windows\CanvasDrawing.exe
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\bin\Debug\net8.0-windows\CanvasDrawing.deps.json
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\bin\Debug\net8.0-windows\CanvasDrawing.runtimeconfig.json
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\bin\Debug\net8.0-windows\CanvasDrawing.dll
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\bin\Debug\net8.0-windows\CanvasDrawing.pdb
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\obj\Debug\net8.0-windows\CanvasDrawing.Form1.resources
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\obj\Debug\net8.0-windows\CanvasDrawing.csproj.GenerateResource.cache
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\obj\Debug\net8.0-windows\CanvasDrawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\obj\Debug\net8.0-windows\CanvasDrawing.AssemblyInfoInputs.cache
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\obj\Debug\net8.0-windows\CanvasDrawing.AssemblyInfo.cs
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\obj\Debug\net8.0-windows\CanvasDrawing.csproj.CoreCompileInputs.cache
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\obj\Debug\net8.0-windows\CanvasDrawing.sourcelink.json
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\obj\Debug\net8.0-windows\CanvasDrawing.dll
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\obj\Debug\net8.0-windows\refint\CanvasDrawing.dll
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\obj\Debug\net8.0-windows\CanvasDrawing.pdb
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\obj\Debug\net8.0-windows\CanvasDrawing.genruntimeconfig.cache
+C:\Users\acour\source\repos\LoginScreen\CanvasDrawing\obj\Debug\net8.0-windows\ref\CanvasDrawing.dll
